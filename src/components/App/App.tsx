@@ -6,11 +6,6 @@ import css from "./App.module.css";
 import type { Votes } from "../../types/votes";
 import Notification from '../Notification/Notification';
 const App = () => {
-//  type Votes = { 
-//     good: number;
-//     neutral: number;
-//     bad: number;
-//   };
 
   const [totalVote, setTotalVote] = useState<Votes>({
     good: 0,
