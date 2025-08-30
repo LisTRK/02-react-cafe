@@ -1,5 +1,5 @@
 import { useState } from "react";
-import CafeInfo from "../CofeInfo/CofeInfo";
+import CafeInfo from "../CafeInfo/CofeInfo";
 import VoteOptions from "../VoteOptions/VoteOptions";
 import VoteStats from "../VoteStats/VoteStats";
 import css from "./App.module.css";
