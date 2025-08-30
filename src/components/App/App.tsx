@@ -3,7 +3,7 @@ import CafeInfo from "../CofeInfo/CofeInfo";
 import VoteOptions from "../VoteOptions/VoteOptions";
 import VoteStats from "../VoteStats/VoteStats";
 import css from "./App.module.css";
-import type { Votes } from "../../Types/votes";
+import type { Votes } from "../../types/votes";
 import Notification from '../Notification/Notification';
 const App = () => {
 //  type Votes = { 
